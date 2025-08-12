@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "OgreGPT",
+	"Description": "Plugin bổ sung websocket, linh tinh cho Vtumon game",
+	"Category": "Other",
+	"CreatedBy": "Ogre Magi",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "OgreGPT",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
